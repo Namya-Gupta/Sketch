@@ -1,0 +1,37 @@
+.body_backgorund {
+    background-image: url('collage.png');
+    background-position: center;
+    background-size: center;
+    background-repeat: no-repeat;
+  }
+  body{
+    cursor: pointer;
+    color: magenta;
+    font-size: large;
+    font-weight: bold;
+  }
+  h1
+  {
+      color: magenta; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
